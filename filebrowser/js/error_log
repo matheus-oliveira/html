@@ -1,0 +1,4 @@
+[22-Apr-2012 17:49:07] PHP Fatal error:  Using $this when not in object context in /home/phpblog/public_html/exemplos/filebrowser/js/ajaxloader.js.php on line 100
+[22-Apr-2012 17:51:26] PHP Fatal error:  Using $this when not in object context in /home/phpblog/public_html/exemplos/filebrowser/js/ajaxloader.js.php on line 100
+[14-Aug-2012 17:10:39] PHP Fatal error:  Using $this when not in object context in /home/phpblog/public_html/exemplos/filebrowser/js/ajaxloader.js.php on line 100
+[14-Aug-2012 17:11:37] PHP Fatal error:  Using $this when not in object context in /home/phpblog/public_html/exemplos/filebrowser/js/ajaxloader.js.php on line 100
